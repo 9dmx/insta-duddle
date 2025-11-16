@@ -1,0 +1,7 @@
+keyboard
+mouse
+numpy
+opencv-python
+PyAutoGUI
+colorama
+ttkbootstrap
