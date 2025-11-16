@@ -24,6 +24,7 @@ A Python-based application that automates the drawing process by capturing canva
 ### Prerequisites
 - Python 3.7+
 - Windows OS (primary support)
+- BlueStack (for mobile app drawing automation)
 
 ### Installation & Launch
 
@@ -126,6 +127,12 @@ All installed automatically via `requirements.txt`
 | **SPACE** | Pause/Resume drawing |
 
 ## Troubleshooting
+
+**BlueStack Integration**
+- Download and install [BlueStack](https://www.bluestacks.com/) for Android app emulation
+- This app can automate drawing on any application running in BlueStack
+- Ensure BlueStack window is active before starting the drawing process
+- Calibrate canvas coordinates within the BlueStack window
 
 **Icons not found?**
 - Ensure all `.png` files are in the same directory as `main.py`
